@@ -10,7 +10,7 @@
 		android:shortcutDisabledMessage="@string/shortcut_decode">
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:targetPackage="de.markusfisch.android.binaryeye"
+			android:targetPackage="io.github.hamzabounibanedz.binaryeye"
 			android:targetClass="de.markusfisch.android.binaryeye.activity.CameraActivity"/>
 	</shortcut>
 	<shortcut
@@ -21,7 +21,7 @@
 		android:shortcutDisabledMessage="@string/shortcut_encode">
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:targetPackage="de.markusfisch.android.binaryeye"
+			android:targetPackage="io.github.hamzabounibanedz.binaryeye"
 			android:targetClass="de.markusfisch.android.binaryeye.activity.EncodeActivity"/>
 	</shortcut>
 	<shortcut
@@ -32,7 +32,7 @@
 		android:shortcutDisabledMessage="@string/shortcut_history">
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:targetPackage="de.markusfisch.android.binaryeye"
+			android:targetPackage="io.github.hamzabounibanedz.binaryeye"
 			android:targetClass="de.markusfisch.android.binaryeye.activity.HistoryActivity"/>
 	</shortcut>
 	<shortcut
@@ -43,7 +43,7 @@
 		android:shortcutDisabledMessage="@string/shortcut_preferences">
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:targetPackage="de.markusfisch.android.binaryeye"
+			android:targetPackage="io.github.hamzabounibanedz.binaryeye"
 			android:targetClass="de.markusfisch.android.binaryeye.activity.PreferencesActivity"/>
 	</shortcut>
 </shortcuts>
