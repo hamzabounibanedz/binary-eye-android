@@ -57,16 +57,16 @@
 		<item name="android:layout_width">match_parent</item>
 		<item name="android:layout_height">wrap_content</item>
 		<item name="android:layout_marginBottom">8dp</item>
-		<item name="android:gravity">center</item>
-		<item name="android:textColor">?attr/colorOnSecondaryContainer</item>
+		<item name="android:gravity">start</item>
+		<item name="android:textColor">@color/brand_base</item>
 		<item name="android:textStyle">bold</item>
 		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
 	</style>
 	<style name="WelcomeButtonSubText">
 		<item name="android:layout_width">match_parent</item>
 		<item name="android:layout_height">wrap_content</item>
-		<item name="android:gravity">center</item>
-		<item name="android:textColor">?attr/colorOnSecondaryContainer</item>
+		<item name="android:gravity">start</item>
+		<item name="android:textColor">@color/brand_base</item>
 		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
 	</style>
 	<style name="Spinner">
@@ -83,7 +83,7 @@
 		<item name="android:layout_margin">20dp</item>
 		<item name="android:layout_gravity">bottom|end</item>
 		<item name="backgroundTint">?attr/colorSecondaryContainer</item>
-		<item name="tint">?attr/colorOnSecondaryContainer</item>
+		<item name="tint">@color/brand_base</item>
 		<item name="elevation">4dp</item>
 	</style>
 </resources>

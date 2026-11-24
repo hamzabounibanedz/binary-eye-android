@@ -1,9 +1,11 @@
 <!-- independent-distribution -->
-# BinaryEye for Android
+# Signalpress for Android
 
-Barcode scanning and QR creation. This independently signed edition builds the [original 1.76.1 release](https://github.com/markusfisch/BinaryEye/tree/d6ca94025cc027c9580672a791a8d0c247024e34) from source. The upstream name, license and application features are preserved.
+Barcode scanning and QR creation. This independently signed edition builds the [original 1.76.1 release](https://github.com/markusfisch/BinaryEye/tree/d6ca94025cc027c9580672a791a8d0c247024e34) from source. This edition adds a new native identity and a browser companion. Upstream attribution and licensing are included.
 
 [Download APK and AAB](https://github.com/hamzabounibanedz/binary-eye-android/releases/latest) · [Cloud build and emulator results](https://github.com/hamzabounibanedz/binary-eye-android/actions/workflows/distribution.yml)
+
+[Web companion](https://signalpress-studio.vercel.app) · [Install on Android](https://signalpress-studio.vercel.app/install)
 
 ![Scan for the Android installation page](distribution/install-qr.png)
 

@@ -1,11 +1,11 @@
 <resources>
-	<color name="accent">#b6d46f</color>
-	<color name="legacy_surface">#111111</color>
-	<color name="legacy_surface_variant">#222222</color>
-	<color name="legacy_surface_variant_translucent">#d8222222</color>
-	<color name="legacy_outline">#333333</color>
-	<color name="legacy_accent">#b6d46f</color>
-	<color name="legacy_accent_dark">#a6c45f</color>
-	<color name="legacy_on_dark">#ffffff</color>
-	<color name="legacy_on_dark_secondary">#bbbbbb</color>
+	<color name="accent">#b7f768</color>
+	<color name="legacy_surface">#071d19</color>
+	<color name="legacy_surface_variant">#17382f</color>
+	<color name="legacy_surface_variant_translucent">#eb17382f</color>
+	<color name="legacy_outline">#3e6453</color>
+	<color name="legacy_accent">#b7f768</color>
+	<color name="legacy_accent_dark">#8cc660</color>
+	<color name="legacy_on_dark">#f5fff4</color>
+	<color name="legacy_on_dark_secondary">#bed3c5</color>
 </resources>

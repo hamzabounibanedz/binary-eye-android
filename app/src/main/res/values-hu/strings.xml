@@ -64,7 +64,7 @@
 	<string name="switch_camera">Kamera átkapcsolása</string>
 	<string name="default_camera">Alapértelmezett kamera</string>
 	<string name="camera_intent">Használat kameraalkalmazásként</string>
-	<string name="camera_intent_summary">A Binary Eye felajánlása a kamera gyorsindításához, például a bekapcsológomb kétszeri megnyomásakor. Az elérhetőség az eszköztől függ. Minden profilra érvényes.</string>
+	<string name="camera_intent_summary">A Signalpress felajánlása a kamera gyorsindításához, például a bekapcsológomb kétszeri megnyomásakor. Az elérhetőség az eszköztől függ. Minden profilra érvényes.</string>
 	<string name="default_camera_back">Hátlapi kamera (alapértelmezett)</string>
 	<string name="default_camera_front">Előlapi kamera</string>
 	<string name="default_camera_other">Másik kamera</string>

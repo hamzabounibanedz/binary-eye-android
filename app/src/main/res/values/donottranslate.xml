@@ -1,5 +1,5 @@
 <resources>
-	<string name="app_name">Binary Eye</string>
+	<string name="app_name">Signalpress</string>
 	<string name="url_hint">http://example.com/</string>
 	<string name="url_hint_add_content">http://example.com/?content=</string>
 	<string name="project_url">https://github.com/markusfisch/BinaryEye</string>

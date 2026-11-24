@@ -278,7 +278,7 @@ class Preferences {
 			apply(PREVIEW_SCALE, value)
 			field = value
 		}
-	var dynamicColors = true
+	var dynamicColors = false
 		set(value) {
 			apply(DYNAMIC_COLORS, value)
 			field = value

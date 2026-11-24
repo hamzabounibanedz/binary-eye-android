@@ -18,7 +18,7 @@
 				android:text="@string/content"/>
 			<EditText
 				tools:targetApi="o"
-				android:id="@+id/content"
+				android:id="@+id/content" android:padding="16dp" android:minHeight="80dp" android:background="@drawable/brand_input"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
 				android:gravity="start|top"
