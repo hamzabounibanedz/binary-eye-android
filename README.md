@@ -1,3 +1,18 @@
+<!-- independent-distribution -->
+# BinaryEye for Android
+
+Barcode scanning and QR creation. This independently signed edition builds the [original 1.76.1 release](https://github.com/markusfisch/BinaryEye/tree/d6ca94025cc027c9580672a791a8d0c247024e34) from source. The upstream name, license and application features are preserved.
+
+[Download APK and AAB](https://github.com/hamzabounibanedz/binary-eye-android/releases/latest) · [Cloud build and emulator results](https://github.com/hamzabounibanedz/binary-eye-android/actions/workflows/distribution.yml)
+
+![Scan for the Android installation page](distribution/install-qr.png)
+
+Download the APK on your phone and open it. Android may ask you to allow the download source to install apps. The package uses its original Android identifier and an independent signing certificate. An existing installation signed by another distributor cannot receive this APK as an in-place update.
+
+Run **Actions → Build, test and release Android → Run workflow** to compile, sign, install and test on a hosted Android emulator, and publish a new release. The release includes the APK, AAB, SHA-256 checksums, installation QR and device evidence. Repository signing secrets are ANDROID_KEYSTORE and ANDROID_KEYPASS. No backend or login is required.
+
+## Upstream documentation
+
 # Binary Eye
 
 Yet another barcode scanner for Android. As if there weren't [enough][play].
